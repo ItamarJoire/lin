@@ -1,0 +1,23 @@
+.withFill{
+  padding: 1rem 1.5rem;
+  margin: .5rem;
+  
+  border-radius: 8px;
+  border: 0;
+  background: #0284c7;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.withBorder{
+  padding: 1rem 1.5rem;
+  margin: .5rem;
+
+  border-radius: 8px;
+  background: transparent;
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  font-weight: bold;
+  cursor: pointer;
+}
